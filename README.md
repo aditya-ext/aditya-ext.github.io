@@ -37,8 +37,6 @@ Let's connect and build something amazing together!
 
 - 🌐 **Portfolio**: [https://aditya-ext.github.io](https://aditya-ext.github.io)
 - 💻 **GitHub**: [https://github.com/aditya-ext](https://github.com/aditya-ext)
-- 🔗 **LinkedIn**: [undefined](undefined)
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/aditya-ext/](https://www.linkedin.com/in/aditya-ext/)
 
 ---
-
-*Based on [portfolio template](https://github.com/yashrajnayak/developer-portfolio) originally created by [Yashraj Nayak](https://github.com/yashrajnayak)*
