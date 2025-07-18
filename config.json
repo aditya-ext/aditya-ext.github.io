@@ -69,7 +69,7 @@
         }
       },
       {
-        "name": "Microservice-based API Architecture",
+        "name": "TalkTalk NSJ",
         "date": "2023-2024",
         "description": [
           "Developed and deployed 8+ microservice-based APIs using .NET Core",
@@ -99,8 +99,8 @@
           "Collaborated directly with stakeholders to gather requirements and implemented solutions that reduced client-reported issues by 60% and increased customer satisfaction scores by 30%",
           "Implemented Google Analytics tracking specifications across 12+ touch-points in the customer sales journey, providing data-driven insights that enabled client to optimize product offerings and increase conversion rates by 20%"
         ],
-        "logo": "assets/logos/cgi-logo.png",
-        "logo_dark": "assets/logos/cgi-logo-dark.png"
+        "logo": "assets/logos/cgi-logo.jpg",
+        "logo_dark": "assets/logos/cgi-logo-dark.jpg"
       }
     ]
   },
