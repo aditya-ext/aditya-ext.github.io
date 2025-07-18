@@ -41,6 +41,12 @@
       "url": "mailto:aaditya.ext@gmail.com",
       "icon": "mail",
       "required": true
+    },
+    {
+      "name": "Resume",
+      "url": "https://drive.google.com/uc?export=download&id=1v3jxKMeGzetKTQ68eJ3l8TForxIYWeSx",
+      "icon": "file",
+      "required": true
     }
   ],
   "github_username": "aditya-ext",
