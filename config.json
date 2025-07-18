@@ -54,6 +54,20 @@
     "title": "Featured Projects",
     "items": [
       {
+        "name": "TalkTalk NSJ Migration",
+        "date": "2023-2025",
+        "description": [
+          "Developed and deployed 8+ microservice-based APIs using .NET Core",
+          "Reduced system response time by 10% while supporting 10,000+ concurrent users",
+          "Implemented across 3 major product releases with 99% sprint commitment success",
+          "Integrated with Azure CI/CD pipelines for automated deployment and scaling"
+        ],
+        "link": {
+          "url": "https://talktalk.co.uk",
+          "title": "See it live"
+        }
+      },
+      {
         "name": "Online Disease Detection System",
         "date": "2022",
         "description": [
@@ -61,27 +75,7 @@
           "Built responsive front-end with HTML, CSS, and Bootstrap for optimal user experience",
           "Implemented machine learning algorithms to analyze user parameters and predict diseases",
           "Demonstrated strong project management skills including time management and teamwork"
-        ],
-        "picture": "assets/projects/disease-detection.png",
-        "link": {
-          "url": "#",
-          "title": "View Project"
-        }
-      },
-      {
-        "name": "TalkTalk NSJ",
-        "date": "2023-2024",
-        "description": [
-          "Developed and deployed 8+ microservice-based APIs using .NET Core",
-          "Reduced system response time by 10% while supporting 10,000+ concurrent users",
-          "Implemented across 3 major product releases with 99% sprint commitment success",
-          "Integrated with Azure CI/CD pipelines for automated deployment and scaling"
-        ],
-        "picture": "assets/projects/microservices.png",
-        "link": {
-          "url": "#",
-          "title": "Learn More"
-        }
+        ]
       }
     ]
   },
@@ -144,21 +138,14 @@
       {
         "name": "Education",
         "items": [
-          {
-            "name": "B.Tech Computer Science - Vel Tech Institute of Science and Technology",
-            "details": "GPA: 8.33/10 (July 2018 - July 2022)"
-          }
+          "B.Tech Computer Science, Vel Tech Institute of Science and Technology (GPA: 8.33/10, July 2018 - July 2022)"
         ]
       }
     ]
   },
-  "github_projects": {
-    "title": "Projects on GitHub"
-  },
   "footer": {
     "show_social_links": true,
     "show_built_with": true,
-    "built_with_text": "Built with ❤️ using vanilla JavaScript",
     "tagline": "Let's connect and build something amazing together!"
   }
 }
