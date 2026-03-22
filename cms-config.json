@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "provider": "strapi",
+  "content_type": "homepage",
+  "query": "populate=*",
+  "fallback_to_local_config": true,
+  "local_base_url": "http://localhost:1337",
+  "production_base_url": "https://clever-bouquet-63ac1dee54.strapiapp.com"
+}
